@@ -1,0 +1,85 @@
+{
+  "funnyEmo": ["🤣","😂","😆","🤪"],
+  "sadEmo": ["🥱","😴","🙄","😪"],
+  "nsfw": [
+    "Damn, you got no girlfriend right? Sadge.",
+    "Fucking horny. Go lift some weight.",
+    "Real man never watch or search nsfw stuff."
+  ],
+  "errorMsg": [
+    "You are quite stupid, ay? Use a proper command.",
+    "Smh, USE A RIGHT FUCKING COMMAND!",
+    "Please use a right command. Type `j!help` to get a list of commands.",
+    "This command doesn't exist. Type `j!help` to get a list of commands.",
+    "Just go die, arsehole.",
+    "You are single, right? What a cunt."
+  ],
+  "dad":[
+    "I'm afraid for the calendar. Its days are numbered.",
+    "My wife said I should do lunges to stay in shape. That would be a big step forward.",
+    "Why do fathers take an extra pair of socks when they go golfing? In case they get a hole in one!",
+    "Singing in the shower is fun until you get soap in your mouth. Then it's a soap opera.",
+    "What do a tick and the Eiffel Tower have in common? They're both Paris sites.",
+    "What do you call a fish wearing a bowtie? Sofishticated.",
+    "How do you follow Will Smith in the snow? You follow the fresh prints.",
+    "I thought the dryer was shrinking my clothes. Turns out it was the refrigerator all along.",
+    "If April showers bring May flowers, what do May flowers bring? Pilgrims.",
+    "Dear Math, grow up and solve your own problems.",
+    "Have you heard about the chocolate record player? It sounds pretty sweet.",
+    "I only know 25 letters of the alphabet. I don't know y.",
+    "Where do fruits go on vacation? Pear-is!",
+    "I asked my dog what's two minus two. He said nothing.",
+    "I do not trust those trees. They seem kind of shady."
+  ],
+  "dark": [
+    "The doctor gave me some cream for my skin rash. He said I was a sight for psoriasis.",
+    "When my uncle Frank died, he wanted his remains to be buried in his favorite beer mug. His last wish was to be Frank in Stein.",
+    "When I see the names of lovers engraved on a tree, I don't find it cute or romantic. I find it weird how many people take knives with them on dates.",
+    "What's red and bad for your teeth? A brick.",
+    "Even people who are good for nothing have the capacity to bring a smile to your face. For instance, when you push them down the stairs.",
+    "The other day, my wife asked me to pass her lipstick but I accidentally passed her a glue stick. She still isn't talking to me.",
+    "Never break someone's heart, they only have one. Break their bones instead, they have 206 of them.",
+    "What's the difference between jelly and jam? You can't jelly a clown into the tiny car.",
+    "Why was the leper hockey game canceled? There was a face off in the corner.",
+    "Today was a terrible day. My ex got hit by a bus. And I lost my job as a bus driver!",
+    "An apple a day keeps the doctor away. Or at least it does if you throw it hard enough.",
+    "I have a fish that can breakdance! Only for 20 seconds though, and only once.",
+    "Today I decided to go visit my childhood home. I asked the residents if I could come inside because I was feeling nostalgic, but they refused and slammed the door on my face. My parents are the worst.",
+    "I have a joke about trickle down economics. But 99% of you will never get it."
+  ],
+  "200iq": [
+    "Why do programmers always mix up Halloween and Christmas? Because Oct 31 equals Dec 25.",
+    "A programmer walks to the butcher shop and buys a kilo of meat. An hour later he comes back upset that the butcher shortchanged him by 24 grams.",
+    "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+    "I just saw my life flash before my eyes and all I could see was a close tag..",
+    "What's the object-oriented way to become wealthy? Inheritance.",
+    "What is a programmer's favourite hangout place? Foo Bar.",
+    "Why did the programme quit his job? Because he didn't get arrays.",
+    "0 is false and 1 is true, right? 1.",
+    "Why do Java programmers have to wear glasses? Because they don't C#.",
+    "Real programmers count from 0.",
+    "What did Java says to C? You got no class.",
+    "Hide ans seek champion since 1958 is... ;"
+  ],
+  "funny": [
+    "What did the snail who was riding on the turtle's back say? Wheeeee!",
+    "I was going to tell a time traveling joke, but you guys didn't like it.",
+    "What do you call a lazy kangaroo? A pouch potato.",
+    "I used to run a dating service for chickens, but I was struggling to make hens meet.",
+    "Why do we tell actors to 'break a leg?' Because every play has a cast.",
+    "What does a pig put on dry skin? Oinkment.",
+    "What do you call it when a snowman throws a tantrum? A meltdown.",
+    "My uncle named his dogs Timex and Rolex. They're his watch dogs.",
+    "Did you hear about the guy whose left side was cut off? He's all right now.",
+    "How do you open a banana? With a mon-key.",
+    "Which is faster, hot or cold? Hot, because you can catch cold.",
+    "What did one plate say to the other plate? Dinner's on me.",
+    "Why do oranges wear sunscreen? So they don't peel.",
+    "My wife told me to stop acting like a flamingo, so I had to put my foot down.",
+    "What do you call a pig that does karate? A pork chop.",
+    "Where does Batman go to the bathroom? The batroom.",
+    "What do you call a pony with a sore throat? A little horse.",
+    "What did the left eye say to the right eye? Between you and me, something smells."
+
+  ]
+}
