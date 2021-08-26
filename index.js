@@ -43,11 +43,6 @@ client.on("message", (message) => {
     message.channel.send({ embeds: [embedHelp] })
   }
 
-  //nfsw command
-  else if(content === `${prefix}nfsw`){
-
-  }
-
   //wrong command
   else if(!collectionJokes.hasOwnProperty(content.substring(2)) && content.startsWith(prefix)){
 
